@@ -1,0 +1,4 @@
+facture du client : Othman / Date : 19-01-2022
+produit : pommeDeTerre : pu : 2,00 : qt  = 1,00 : prix*quantié 2,00
+total HT =  2,00
+total TVA =  2,40

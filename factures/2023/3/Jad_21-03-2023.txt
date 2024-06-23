@@ -1,0 +1,4 @@
+facture du client : Jad / Date : 21-03-2023
+produit : lait : pu : 1,23 : qt  = 1,00 : prix*quantié 1,23
+total HT =  1,23
+total TVA =  1,48

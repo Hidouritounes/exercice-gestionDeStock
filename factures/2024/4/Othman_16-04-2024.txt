@@ -1,0 +1,4 @@
+facture du client : Othman / Date : 16-04-2024
+produit : CocaCola : pu : 1,30 : qt  = 2,00 : prix*quantié 2,60
+total HT =  2,60
+total TVA =  3,12

@@ -1,0 +1,4 @@
+facture du client : Othman / Date : 18-01-2022
+produit : lait : pu : 1,23 : qt  = 2,00 : prix*quantié 2,46
+total HT =  2,46
+total TVA =  2,95

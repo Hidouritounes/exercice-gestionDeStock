@@ -1,0 +1,4 @@
+facture du client : Othman / Date : 16-03-2024
+produit : carottes : pu : 1,50 : qt  = 1,00 : prix*quantié 1,50
+total HT =  1,50
+total TVA =  1,80

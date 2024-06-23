@@ -1,0 +1,4 @@
+facture du client : Jad / Date : 18-01-2021
+produit : chocolat : pu : 1,23 : qt  = 1,00 : prix*quantié 1,23
+total HT =  1,23
+total TVA =  1,48

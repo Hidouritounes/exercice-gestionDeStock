@@ -1,0 +1,4 @@
+facture du client : Hayder / Date : 19-03-2022
+produit : mouchoir : pu : 2,95 : qt  = 1,00 : prix*quantié 2,95
+total HT =  2,95
+total TVA =  3,54

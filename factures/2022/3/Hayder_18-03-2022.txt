@@ -1,0 +1,4 @@
+facture du client : Hayder / Date : 18-03-2022
+produit : Gilette : pu : 5,70 : qt  = 1,00 : prix*quantié 5,70
+total HT =  5,70
+total TVA =  6,84

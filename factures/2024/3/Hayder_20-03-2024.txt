@@ -1,0 +1,4 @@
+facture du client : Hayder / Date : 20-03-2024
+produit : eau : pu : 1,50 : qt  = 1,00 : prix*quantié 1,50
+total HT =  1,50
+total TVA =  1,80

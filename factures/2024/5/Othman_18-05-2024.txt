@@ -1,0 +1,4 @@
+facture du client : Othman / Date : 18-05-2024
+produit : NoixdeCoco : pu : 2,50 : qt  = 1,00 : prix*quantié 2,50
+total HT =  2,50
+total TVA =  3,00
